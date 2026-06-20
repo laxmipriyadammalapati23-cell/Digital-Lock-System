@@ -15,3 +15,8 @@ The user enters a password using push buttons. When the correct sequence is ente
 ## Applications
 - Basic security systems
 - Educational electronics projects
+
+
+ ## Project Images
+
+![Circuit](Screenshot 2026-06-20 161703.png)
